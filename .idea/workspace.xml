@@ -4,72 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="806a216d-5e74-4399-9f42-4a27fa783cd3" name="Changes" comment="Replace app with a gradle project">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.1/dependencies-accessors/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.1/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="806a216d-5e74-4399-9f42-4a27fa783cd3" name="Changes" comment="Clean new project">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mfe/.browserslistrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mfe/.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mfe/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mfe/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mfe/angular.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mfe/karma.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mfe/mfe.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mfe/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mfe/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mfe/src/app/app.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mfe/src/app/app.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mfe/src/app/app.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mfe/src/app/app.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mfe/src/app/app.module.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mfe/src/assets/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mfe/src/environments/environment.prod.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mfe/src/environments/environment.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mfe/src/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mfe/src/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mfe/src/main.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mfe/src/polyfills.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mfe/src/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mfe/src/test.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mfe/tsconfig.app.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mfe/tsconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mfe/tsconfig.spec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/hanzalahravat/scroller/app/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/hanzalahravat/scroller/app/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/hanzalahravat/scroller/app/MessageUtils.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webserver/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webserver/build.gradle.kts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webserver/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webserver/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webserver/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webserver/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webserver/settings.gradle.kts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webserver/src/main/kotlin/com/hanzalahravat/scroller/webserver/WebserverApplication.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webserver/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webserver/src/test/kotlin/com/hanzalahravat/scroller/webserver/WebserverApplicationTests.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utilities/src/main/java/com/hanzalahravat/scroller/utilities/JoinUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utilities/src/main/java/com/hanzalahravat/scroller/utilities/SplitUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utilities/src/main/java/com/hanzalahravat/scroller/utilities/StringUtils.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,6 +41,14 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1x2DMEvOnkAhONcsFcTq6YIzuFP" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -128,7 +81,7 @@
       <recent name="$PROJECT_DIR$/app" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.scroller [dependencies]">
+  <component name="RunManager" selected="npm.Angular CLI Server (wapp)">
     <configuration name="scroller [dependencies]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -153,6 +106,13 @@
     <configuration name="Angular Application (mfe)" type="JavascriptDebugType" uri="http://localhost:4200">
       <method v="2" />
     </configuration>
+    <configuration name="ServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hanzalahravat.scroller.service.ServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="WebserverApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
       <module name="webserver.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.hanzalahravat.scroller.webserver.WebserverApplication" />
@@ -162,6 +122,16 @@
     </configuration>
     <configuration name="Angular CLI Server (mfe)" type="js.build_tools.npm">
       <package-json value="$PROJECT_DIR$/mfe/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular CLI Server (wapp)" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/wapp/package.json" />
       <command value="run" />
       <scripts>
         <script value="start" />
@@ -185,7 +155,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1629544274202</updated>
-      <workItem from="1629544276850" duration="4952000" />
+      <workItem from="1629544276850" duration="5355000" />
     </task>
     <task id="LOCAL-00001" summary="Clean">
       <created>1629546629949</created>
@@ -208,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629547384459</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Clean new project">
+      <created>1629557062953</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1629557062953</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -228,7 +205,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Clean" />
     <MESSAGE value="Replace app with a gradle project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Replace app with a gradle project" />
+    <MESSAGE value="Clean new project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Clean new project" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

@@ -3,16 +3,8 @@
  */
 package com.hanzalahravat.scroller.app;
 
-import com.hanzalahravat.scroller.list.LinkedList;
-
-import static com.hanzalahravat.scroller.utilities.StringUtils.join;
-import static com.hanzalahravat.scroller.utilities.StringUtils.split;
-import static com.hanzalahravat.scroller.app.MessageUtils.getMessage;
-
 public class App {
     public static void main(String[] args) {
-        LinkedList tokens;
-        tokens = split(getMessage());
-        System.out.println(join(tokens));
+
     }
 }

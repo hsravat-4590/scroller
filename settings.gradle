@@ -8,4 +8,4 @@
  */
 
 rootProject.name = 'scroller'
-include('app', 'utilities')
+include('app', 'utilities', 'service')
