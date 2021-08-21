@@ -4,7 +4,46 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="806a216d-5e74-4399-9f42-4a27fa783cd3" name="Changes" comment="Clean new project">
+    <list default="true" id="806a216d-5e74-4399-9f42-4a27fa783cd3" name="Changes" comment="Add Wapp">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/src/main/java/com/hanzalahravat/scroller/service/ServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/src/test/java/com/hanzalahravat/scroller/service/ServiceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wapp/.browserslistrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wapp/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wapp/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wapp/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wapp/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wapp/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wapp/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wapp/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wapp/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wapp/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wapp/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wapp/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wapp/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wapp/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wapp/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wapp/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wapp/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wapp/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wapp/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wapp/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wapp/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wapp/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wapp/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wapp/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wapp/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wapp/wapp.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -65,7 +104,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
-    <property name="jdk.selected.JAVA_MODULE" value="openjdk-16" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/application/src/main/java" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -155,7 +194,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1629544274202</updated>
-      <workItem from="1629544276850" duration="5355000" />
+      <workItem from="1629544276850" duration="5666000" />
     </task>
     <task id="LOCAL-00001" summary="Clean">
       <created>1629546629949</created>
@@ -185,7 +224,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629557062953</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add Wapp">
+      <created>1629557630292</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1629557630292</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -206,7 +252,8 @@
     <MESSAGE value="Clean" />
     <MESSAGE value="Replace app with a gradle project" />
     <MESSAGE value="Clean new project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Clean new project" />
+    <MESSAGE value="Add Wapp" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Wapp" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
