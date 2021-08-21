@@ -3,7 +3,7 @@ plugins {
     id 'java'
 }
 
-group 'com.hanzalahravat'
+group 'com.hanzalahravat.scroller'
 version '1.0-SNAPSHOT'
 
 repositories {
