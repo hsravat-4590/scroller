@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="scroller.list" target="11" />
+      <module name="scroller.list.main" target="11" />
+      <module name="scroller.list.test" target="11" />
+      <module name="scroller.main" target="11" />
+      <module name="scroller.test" target="11" />
+      <module name="webserver" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
